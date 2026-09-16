@@ -1,9 +1,0 @@
-node_modules/
-dist/
-*.db
-*.sqlite
-*.sqlite-shm
-*.sqlite-wal
-*.tsbuildinfo
-.env
-docs/
